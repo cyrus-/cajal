@@ -7,6 +7,8 @@
 (source
  (github cyrus-/cajal))
 
+(license MIT)
+
 (authors "Cyrus Omar")
 
 (maintainers "Cyrus Omar")

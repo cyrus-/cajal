@@ -37,3 +37,7 @@ You can also use the library directly: `Cajal.Purkinje.draw ?ink seed` returns t
 - `bin/main.ml` is the command-line tool.
 
 The look it aims at is that of Cajal's drawings of Purkinje cells, now held at the Instituto Cajal in Madrid.
+
+## License
+
+MIT; see [LICENSE](LICENSE).

@@ -4,6 +4,7 @@ synopsis:
   "Purkinje cells after Ramón y Cajal, grown by a growth-cone simulation"
 maintainer: ["Cyrus Omar"]
 authors: ["Cyrus Omar"]
+license: "MIT"
 homepage: "https://github.com/cyrus-/cajal"
 bug-reports: "https://github.com/cyrus-/cajal/issues"
 depends: [
