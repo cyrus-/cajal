@@ -1,0 +1,3 @@
+(library
+ (name cajal)
+ (public_name cajal))
